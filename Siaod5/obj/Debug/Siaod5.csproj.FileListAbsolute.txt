@@ -1,0 +1,47 @@
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\bin\Debug\Siaod5.exe.config
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\bin\Debug\Siaod5.exe
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\bin\Debug\Siaod5.pdb
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\obj\Debug\Siaod5.csprojResolveAssemblyReference.cache
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\obj\Debug\Siaod5.Form1.resources
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\obj\Debug\Siaod5.Form2.resources
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\obj\Debug\Siaod5.Properties.Resources.resources
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\obj\Debug\Siaod5.Resource1.resources
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\obj\Debug\Siaod5.csproj.GenerateResource.Cache
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\obj\Debug\Siaod5.exe
+c:\users\саид\documents\visual studio 2015\Projects\Siaod5\Siaod5\obj\Debug\Siaod5.pdb
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\bin\Debug\Siaod5.exe.config
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\obj\Debug\Siaod5.exe
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\obj\Debug\Siaod5.pdb
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\bin\Debug\Siaod5.exe
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\bin\Debug\Siaod5.pdb
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\obj\Debug\Siaod5.csprojResolveAssemblyReference.cache
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\obj\Debug\Siaod5.Form1.resources
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\obj\Debug\Siaod5.Form2.resources
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\obj\Debug\Siaod5.Properties.Resources.resources
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\obj\Debug\Siaod5.Resource1.resources
+C:\Users\Коля\Desktop\вуз\СЯОД\Новая папка\Siaod5\Siaod5\obj\Debug\Siaod5.csproj.GenerateResource.Cache
+C:\Users\Саид\Desktop\Siaod5\Siaod5\bin\Debug\Siaod5.exe.config
+C:\Users\Саид\Desktop\Siaod5\Siaod5\bin\Debug\Siaod5.exe
+C:\Users\Саид\Desktop\Siaod5\Siaod5\bin\Debug\Siaod5.pdb
+C:\Users\Саид\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.csprojResolveAssemblyReference.cache
+C:\Users\Саид\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Form1.resources
+C:\Users\Саид\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Form2.resources
+C:\Users\Саид\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Properties.Resources.resources
+C:\Users\Саид\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Resource1.resources
+C:\Users\Саид\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.csproj.GenerateResource.Cache
+C:\Users\Саид\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.exe
+C:\Users\Саид\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.pdb
+C:\Users\Коля\Desktop\Siaod5\Siaod5\bin\Debug\Siaod5.exe.config
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.exe
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.pdb
+C:\Users\Коля\Desktop\Siaod5\Siaod5\bin\Debug\Siaod5.exe
+C:\Users\Коля\Desktop\Siaod5\Siaod5\bin\Debug\Siaod5.pdb
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.csprojResolveAssemblyReference.cache
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Form1.resources
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Form2.resources
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Form3.resources
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Properties.Resources.resources
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.Resource1.resources
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.csproj.GenerateResource.Cache
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.AboutForm.resources
+C:\Users\Коля\Desktop\Siaod5\Siaod5\obj\Debug\Siaod5.ObUzle.resources
